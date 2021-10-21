@@ -28,3 +28,10 @@ So we clearly need a deep learning model to find the cheaters.
 <p align="center">
   <img width="460" height="300" src="https://github.com/asim5800/Credit-card-fraud-detection/blob/main/SOM.png">
 </p>
+
+The red circles are going to correspond to the customers who didn't get approval.
+Green squares will correspond to the customers who got approval.
+
+OBSERVE (9,9) white(light) color absolutely no doubt the Mean Interneuron Distance is almost equal to one or perhaps equal to one which clearly indicates that there is a high risk of fraud for these customers associated to this winning nodes. Similarly for the lighter colors we can infer them as outliers or fraudsters. 
+
+
