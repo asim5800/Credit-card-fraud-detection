@@ -7,6 +7,6 @@ What we're gonna do is unsupervised deep learning,which means that we will ident
 
 How SOM works?
 <p align="center">
-  <img width="460" height="300" src="https://commons.wikimedia.org/wiki/File:TrainSOM.gif#/media/File:TrainSOM.gif">
+  ![Alt Text](https://en.wikipedia.org/wiki/Self-organizing_map#/media/File:TrainSOM.gif)
 </p>
 
