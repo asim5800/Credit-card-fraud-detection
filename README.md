@@ -26,5 +26,5 @@ So we clearly need a deep learning model to find the cheaters.
 
 
 <p align="center">
-  <img width="460" height="300" src="https://drive.google.com/file/d/1lj9qU3uDqpoN8woVfH7dSwB5v8N1jhhz/view?usp=sharing">
+  <img width="460" height="300" src="https://github.com/asim5800/Credit-card-fraud-detection/blob/main/SOM.png">
 </p>
