@@ -6,7 +6,4 @@ So that means that by the end of the mission,we have to give the explicit list,o
 What we're gonna do is unsupervised deep learning,which means that we will identify some patterns in a high dimensional data sets full of nonlinear relationships.And one of these patterns will be the potential fraud.
 
 How SOM works?
-<p align="center">
-  <img src="https://en.wikipedia.org/wiki/Self-organizing_map#/media/File:TrainSOM.gif">
-</p>
-
+![New video](https://en.wikipedia.org/wiki/Self-organizing_map#/media/File:TrainSOM.gif)
